@@ -1,0 +1,8 @@
+# ignore extensionless files (e.g. binaries)
+*
+!*.*
+!*/
+
+# misc
+.vscode/
+!Makefile
